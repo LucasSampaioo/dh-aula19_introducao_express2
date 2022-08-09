@@ -4,4 +4,10 @@
 
 ## Atividade Resolvida
 
+ ## Instrução
+ 
+ - [] NOde.js 14.x ou superior 
+ ## - [] Instalaçao 
+ 1 - `npm install` para instalar todas as dependencias 
+
 - [Código-fonte](./)
